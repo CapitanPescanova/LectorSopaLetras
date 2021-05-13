@@ -2,7 +2,7 @@ package projectOne;
 
 import java.util.*;
 
-public class Problema1 {
+public class LectorSopaLetras {
 	static int	contar;
 	public static void main(String[] args) {
 		
